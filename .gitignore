@@ -1,0 +1,6 @@
+data/*
+saved_models/*
+*.pyc
+.vscode/*
+visualization/*
+saved_models/*
